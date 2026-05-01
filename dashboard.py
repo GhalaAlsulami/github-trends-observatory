@@ -230,11 +230,11 @@ if not os.path.exists(ANALYSIS_FILE):
     st.stop()
 
 df, df_snapshots = load_data()
-
+df = df.drop_duplicates(subset="language", keep="last").reset_index(drop=True)
 # ─────────────────────────────────────────
 # COMPUTED INSIGHTS
 # ─────────────────────────────────────────
-df_sorted = df.sort_values("total_repos", ascending=False).reset_index(drop=True)
+df_sorted = df.sort_values("total_repos", ascending=False).drop_duplicates(subset="language").reset_index(drop=True)
 top_lang = df_sorted.iloc[0]
 second_lang = df_sorted.iloc[1]
 top_repo = df.sort_values("top_repo_stars", ascending=False).iloc[0]
