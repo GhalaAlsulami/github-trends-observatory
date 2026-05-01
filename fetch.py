@@ -23,7 +23,7 @@ LANGUAGES = [
 ]
 
 # Where to save the data
-OUTPUT_FILE = "../data/snapshots.csv"
+OUTPUT_FILE = "data/snapshots.csv"
 
 
 # In[3]:

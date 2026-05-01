@@ -14,8 +14,8 @@ import os
 
 
 # Input and output file paths
-INPUT_FILE = "../data/snapshots.csv"
-OUTPUT_FILE = "../data/analysis.csv"
+INPUT_FILE = "data/snapshots.csv"
+OUTPUT_FILE = "data/analysis.csv"
 
 # Date ranges we'll use for analysis
 TODAY = datetime.today().strftime("%Y-%m-%d")
