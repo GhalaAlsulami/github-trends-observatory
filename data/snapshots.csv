@@ -335,3 +335,12 @@ Rust,17923,ultraworkers/claw-code,193627,https://github.com/ultraworkers/claw-co
 Go,14965,danielmiessler/Fabric,42272,https://github.com/danielmiessler/Fabric,Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2026-06-11
 Java,9128,opendataloader-project/opendataloader-pdf,24382,https://github.com/opendataloader-project/opendataloader-pdf,PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.,2026-06-11
 C++,16338,LadybirdBrowser/ladybird,64013,https://github.com/LadybirdBrowser/ladybird,Truly independent web browser,2026-06-11
+Python,122011,NousResearch/hermes-agent,192331,https://github.com/NousResearch/hermes-agent,The agent that grows with you,2026-06-13
+JavaScript,32919,affaan-m/ECC,214544,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",2026-06-13
+TypeScript,54982,openclaw/openclaw,378482,https://github.com/openclaw/openclaw,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ,2026-06-13
+Rust,18012,ultraworkers/claw-code,193714,https://github.com/ultraworkers/claw-code,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",2026-06-13
+Go,15021,danielmiessler/Fabric,42333,https://github.com/danielmiessler/Fabric,Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2026-06-13
+Java,9177,opendataloader-project/opendataloader-pdf,24498,https://github.com/opendataloader-project/opendataloader-pdf,PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.,2026-06-13
+C++,16406,LadybirdBrowser/ladybird,64069,https://github.com/LadybirdBrowser/ladybird,Truly independent web browser,2026-06-13
+Kotlin,5823,kavishdevar/librepods,27212,https://github.com/kavishdevar/librepods,AirPods liberated from Apple's ecosystem.,2026-06-13
+Swift,5267,apple/container,35679,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",2026-06-13
