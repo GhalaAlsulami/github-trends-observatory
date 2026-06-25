@@ -1,2 +1,10 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,124798,NousResearch/hermes-agent,201544,https://github.com/NousResearch/hermes-agent,2026-06-24,100.0,rising,YES
+Python,125165,NousResearch/hermes-agent,202659,https://github.com/NousResearch/hermes-agent,2026-06-25,43.63,rising,YES
+TypeScript,56457,openclaw/openclaw,380390,https://github.com/openclaw/openclaw,2026-06-25,19.68,rising,YES
+JavaScript,33756,affaan-m/ECC,221451,https://github.com/affaan-m/ECC,2026-06-25,11.77,rising,YES
+Rust,18558,ultraworkers/claw-code,194280,https://github.com/ultraworkers/claw-code,2026-06-25,6.47,rising,YES
+C++,16736,LadybirdBrowser/ladybird,64218,https://github.com/LadybirdBrowser/ladybird,2026-06-25,5.83,rising,YES
+Go,15387,danielmiessler/Fabric,42631,https://github.com/danielmiessler/Fabric,2026-06-25,5.36,rising,YES
+Java,9349,opendataloader-project/opendataloader-pdf,25917,https://github.com/opendataloader-project/opendataloader-pdf,2026-06-25,3.26,rising,YES
+Kotlin,6010,librepods-org/librepods,27713,https://github.com/librepods-org/librepods,2026-06-25,2.09,rising,YES
+Swift,5467,apple/container,42806,https://github.com/apple/container,2026-06-25,1.91,rising,YES

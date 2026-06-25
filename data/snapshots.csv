@@ -426,3 +426,12 @@ C++,16685,LadybirdBrowser/ladybird,64201,https://github.com/LadybirdBrowser/lady
 Kotlin,5984,kavishdevar/librepods,27594,https://github.com/kavishdevar/librepods,AirPods liberated from Apple's ecosystem.,2026-06-23
 Swift,5443,apple/container,39656,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",2026-06-23
 Python,124798,NousResearch/hermes-agent,201544,https://github.com/NousResearch/hermes-agent,The agent that grows with you,2026-06-24
+Python,125165,NousResearch/hermes-agent,202659,https://github.com/NousResearch/hermes-agent,The agent that grows with you,2026-06-25
+JavaScript,33756,affaan-m/ECC,221451,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",2026-06-25
+TypeScript,56457,openclaw/openclaw,380390,https://github.com/openclaw/openclaw,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ,2026-06-25
+Rust,18558,ultraworkers/claw-code,194280,https://github.com/ultraworkers/claw-code,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",2026-06-25
+Go,15387,danielmiessler/Fabric,42631,https://github.com/danielmiessler/Fabric,Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2026-06-25
+Java,9349,opendataloader-project/opendataloader-pdf,25917,https://github.com/opendataloader-project/opendataloader-pdf,PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.,2026-06-25
+C++,16736,LadybirdBrowser/ladybird,64218,https://github.com/LadybirdBrowser/ladybird,Truly independent web browser,2026-06-25
+Kotlin,6010,librepods-org/librepods,27713,https://github.com/librepods-org/librepods,AirPods liberated from Apple's ecosystem.,2026-06-25
+Swift,5467,apple/container,42806,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",2026-06-25
