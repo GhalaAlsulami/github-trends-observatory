@@ -1,5 +1,10 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,125362,NousResearch/hermes-agent,203474,https://github.com/NousResearch/hermes-agent,2026-06-26,53.48,rising,YES
-TypeScript,56591,openclaw/openclaw,380532,https://github.com/openclaw/openclaw,2026-06-26,24.14,rising,YES
-JavaScript,33859,affaan-m/ECC,221970,https://github.com/affaan-m/ECC,2026-06-26,14.44,rising,YES
-Rust,18606,ultraworkers/claw-code,194333,https://github.com/ultraworkers/claw-code,2026-06-26,7.94,rising,YES
+Python,125558,NousResearch/hermes-agent,204025,https://github.com/NousResearch/hermes-agent,2026-06-27,43.6,rising,YES
+TypeScript,56714,openclaw/openclaw,380674,https://github.com/openclaw/openclaw,2026-06-27,19.69,rising,YES
+JavaScript,33909,affaan-m/ECC,222340,https://github.com/affaan-m/ECC,2026-06-27,11.77,rising,YES
+Rust,18640,ultraworkers/claw-code,194362,https://github.com/ultraworkers/claw-code,2026-06-27,6.47,rising,YES
+C++,16791,LadybirdBrowser/ladybird,64306,https://github.com/LadybirdBrowser/ladybird,2026-06-27,5.83,rising,YES
+Go,15455,danielmiessler/Fabric,42656,https://github.com/danielmiessler/Fabric,2026-06-27,5.37,rising,YES
+Java,9379,opendataloader-project/opendataloader-pdf,26026,https://github.com/opendataloader-project/opendataloader-pdf,2026-06-27,3.26,rising,YES
+Kotlin,6040,librepods-org/librepods,27789,https://github.com/librepods-org/librepods,2026-06-27,2.1,rising,YES
+Swift,5508,apple/container,43816,https://github.com/apple/container,2026-06-27,1.91,rising,YES
