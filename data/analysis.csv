@@ -1,3 +1,7 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,129093,NousResearch/hermes-agent,212533,https://github.com/NousResearch/hermes-agent,2026-07-10,78.7,rising,YES
-JavaScript,34937,affaan-m/ECC,228121,https://github.com/affaan-m/ECC,2026-07-10,21.3,rising,YES
+Python,129329,NousResearch/hermes-agent,212976,https://github.com/NousResearch/hermes-agent,2026-07-11,48.44,rising,YES
+TypeScript,57843,openclaw/openclaw,382557,https://github.com/openclaw/openclaw,2026-07-11,21.67,rising,YES
+JavaScript,34997,affaan-m/ECC,228388,https://github.com/affaan-m/ECC,2026-07-11,13.11,rising,YES
+Rust,19297,ultraworkers/claw-code,194711,https://github.com/ultraworkers/claw-code,2026-07-11,7.23,rising,YES
+Go,15864,danielmiessler/Fabric,42947,https://github.com/danielmiessler/Fabric,2026-07-11,5.94,rising,YES
+Java,9635,opendataloader-project/opendataloader-pdf,26982,https://github.com/opendataloader-project/opendataloader-pdf,2026-07-11,3.61,rising,YES

@@ -529,3 +529,9 @@ Kotlin,6220,librepods-org/librepods,28642,https://github.com/librepods-org/libre
 Swift,5683,apple/container,47234,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",2026-07-09
 Python,129093,NousResearch/hermes-agent,212533,https://github.com/NousResearch/hermes-agent,The agent that grows with you,2026-07-10
 JavaScript,34937,affaan-m/ECC,228121,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",2026-07-10
+Python,129329,NousResearch/hermes-agent,212976,https://github.com/NousResearch/hermes-agent,The agent that grows with you,2026-07-11
+JavaScript,34997,affaan-m/ECC,228388,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",2026-07-11
+TypeScript,57843,openclaw/openclaw,382557,https://github.com/openclaw/openclaw,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ,2026-07-11
+Rust,19297,ultraworkers/claw-code,194711,https://github.com/ultraworkers/claw-code,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",2026-07-11
+Go,15864,danielmiessler/Fabric,42947,https://github.com/danielmiessler/Fabric,Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2026-07-11
+Java,9635,opendataloader-project/opendataloader-pdf,26982,https://github.com/opendataloader-project/opendataloader-pdf,PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.,2026-07-11
