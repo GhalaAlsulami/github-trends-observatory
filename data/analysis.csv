@@ -1,6 +1,10 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,138750,NousResearch/hermes-agent,230382,https://github.com/NousResearch/hermes-agent,2026-08-14,50.02,rising,YES
-TypeScript,62843,openclaw/openclaw,386270,https://github.com/openclaw/openclaw,2026-08-14,22.66,rising,YES
-JavaScript,37667,affaan-m/ECC,240074,https://github.com/affaan-m/ECC,2026-08-14,13.58,rising,YES
-Rust,21094,ultraworkers/claw-code,195078,https://github.com/ultraworkers/claw-code,2026-08-14,7.6,rising,YES
-Go,17028,JuliusBrussee/caveman,98101,https://github.com/JuliusBrussee/caveman,2026-08-14,6.14,rising,YES
+Python,138964,NousResearch/hermes-agent,230804,https://github.com/NousResearch/hermes-agent,2026-08-15,43.43,rising,YES
+TypeScript,62990,openclaw/openclaw,386348,https://github.com/openclaw/openclaw,2026-08-15,19.69,rising,YES
+JavaScript,37770,affaan-m/ECC,240200,https://github.com/affaan-m/ECC,2026-08-15,11.81,rising,YES
+Rust,21143,ultraworkers/claw-code,195050,https://github.com/ultraworkers/claw-code,2026-08-15,6.61,rising,YES
+C++,18468,LadybirdBrowser/ladybird,65649,https://github.com/LadybirdBrowser/ladybird,2026-08-15,5.77,rising,YES
+Go,17039,JuliusBrussee/caveman,98286,https://github.com/JuliusBrussee/caveman,2026-08-15,5.33,rising,YES
+Java,10268,opendataloader-project/opendataloader-pdf,28412,https://github.com/opendataloader-project/opendataloader-pdf,2026-08-15,3.21,rising,YES
+Kotlin,6977,librepods-org/librepods,29402,https://github.com/librepods-org/librepods,2026-08-15,2.18,rising,YES
+Swift,6317,apple/container,48961,https://github.com/apple/container,2026-08-15,1.97,rising,YES
