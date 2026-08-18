@@ -827,3 +827,13 @@ Java,10302,opendataloader-project/opendataloader-pdf,28469,https://github.com/op
 C++,18540,LadybirdBrowser/ladybird,65697,https://github.com/LadybirdBrowser/ladybird,Truly independent web browser,2026-08-17
 Kotlin,7029,librepods-org/librepods,29452,https://github.com/librepods-org/librepods,AirPods liberated from Apple's ecosystem.,2026-08-17
 Swift,6346,apple/container,49011,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",2026-08-17
+Python,139698,NousResearch/hermes-agent,232265,https://github.com/NousResearch/hermes-agent,The agent that grows with you,2026-08-18
+JavaScript,38048,affaan-m/ECC,240813,https://github.com/affaan-m/ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",2026-08-18
+TypeScript,63420,openclaw/openclaw,386614,https://github.com/openclaw/openclaw,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ,2026-08-18
+Rust,21274,ultraworkers/claw-code,195075,https://github.com/ultraworkers/claw-code,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",2026-08-18
+Go,17118,JuliusBrussee/caveman,98832,https://github.com/JuliusBrussee/caveman,🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman,2026-08-18
+Java,10331,opendataloader-project/opendataloader-pdf,28534,https://github.com/opendataloader-project/opendataloader-pdf,PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.,2026-08-18
+C++,18574,LadybirdBrowser/ladybird,65709,https://github.com/LadybirdBrowser/ladybird,Truly independent web browser,2026-08-18
+Kotlin,7048,librepods-org/librepods,29469,https://github.com/librepods-org/librepods,AirPods liberated from Apple's ecosystem.,2026-08-18
+Swift,6370,apple/container,49032,https://github.com/apple/container,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",2026-08-18
+Ruby,1376,Freika/dawarich,10109,https://github.com/Freika/dawarich,Your favorite self-hostable alternative to Google Timeline (Google Location History),2026-08-18
