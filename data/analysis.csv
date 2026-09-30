@@ -1,10 +1,8 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,152723,NousResearch/hermes-agent,249990,https://github.com/NousResearch/hermes-agent,2026-09-29,43.16,rising,YES
-TypeScript,69506,openclaw/openclaw,390778,https://github.com/openclaw/openclaw,2026-09-29,19.64,rising,YES
-JavaScript,42138,affaan-m/ECC,269406,https://github.com/affaan-m/ECC,2026-09-29,11.91,rising,YES
-Rust,23625,ultraworkers/claw-code,195281,https://github.com/ultraworkers/claw-code,2026-09-29,6.68,rising,YES
-C++,20554,LadybirdBrowser/ladybird,66367,https://github.com/LadybirdBrowser/ladybird,2026-09-29,5.81,rising,YES
-Go,18661,JuliusBrussee/caveman,108308,https://github.com/JuliusBrussee/caveman,2026-09-29,5.27,rising,YES
-Java,11200,opendataloader-project/opendataloader-pdf,29399,https://github.com/opendataloader-project/opendataloader-pdf,2026-09-29,3.17,rising,YES
-Kotlin,8138,librepods-org/librepods,30067,https://github.com/librepods-org/librepods,2026-09-29,2.3,rising,YES
-Swift,7298,apple/container,50380,https://github.com/apple/container,2026-09-29,2.06,rising,YES
+Python,153065,NousResearch/hermes-agent,250268,https://github.com/NousResearch/hermes-agent,2026-09-30,45.12,rising,YES
+TypeScript,69680,openclaw/openclaw,390873,https://github.com/openclaw/openclaw,2026-09-30,20.54,rising,YES
+JavaScript,42273,affaan-m/ECC,270020,https://github.com/affaan-m/ECC,2026-09-30,12.46,rising,YES
+Rust,23680,ultraworkers/claw-code,195287,https://github.com/ultraworkers/claw-code,2026-09-30,6.98,rising,YES
+C++,20611,LadybirdBrowser/ladybird,66378,https://github.com/LadybirdBrowser/ladybird,2026-09-30,6.08,rising,YES
+Go,18698,JuliusBrussee/caveman,108538,https://github.com/JuliusBrussee/caveman,2026-09-30,5.51,rising,YES
+Java,11207,opendataloader-project/opendataloader-pdf,29442,https://github.com/opendataloader-project/opendataloader-pdf,2026-09-30,3.3,rising,YES
