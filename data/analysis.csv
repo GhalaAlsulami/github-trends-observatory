@@ -1,7 +1,8 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,153835,NousResearch/hermes-agent,250909,https://github.com/NousResearch/hermes-agent,2026-10-03,48.03,rising,YES
-TypeScript,70057,openclaw/openclaw,391227,https://github.com/openclaw/openclaw,2026-10-03,21.87,rising,YES
-JavaScript,42496,affaan-m/ECC,271859,https://github.com/affaan-m/ECC,2026-10-03,13.27,rising,YES
-Rust,23860,ultraworkers/claw-code,195232,https://github.com/ultraworkers/claw-code,2026-10-03,7.45,rising,YES
-Go,18788,JuliusBrussee/caveman,109348,https://github.com/JuliusBrussee/caveman,2026-10-03,5.87,rising,YES
-Java,11278,opendataloader-project/opendataloader-pdf,29455,https://github.com/opendataloader-project/opendataloader-pdf,2026-10-03,3.52,rising,YES
+Python,154147,NousResearch/hermes-agent,251116,https://github.com/NousResearch/hermes-agent,2026-10-04,45.1,rising,YES
+TypeScript,70183,openclaw/openclaw,391285,https://github.com/openclaw/openclaw,2026-10-04,20.54,rising,YES
+JavaScript,42601,affaan-m/ECC,272650,https://github.com/affaan-m/ECC,2026-10-04,12.47,rising,YES
+Rust,23918,ultraworkers/claw-code,195220,https://github.com/ultraworkers/claw-code,2026-10-04,7.0,rising,YES
+C++,20818,LadybirdBrowser/ladybird,66417,https://github.com/LadybirdBrowser/ladybird,2026-10-04,6.09,rising,YES
+Go,18805,JuliusBrussee/caveman,109738,https://github.com/JuliusBrussee/caveman,2026-10-04,5.5,rising,YES
+Java,11287,opendataloader-project/opendataloader-pdf,29477,https://github.com/opendataloader-project/opendataloader-pdf,2026-10-04,3.3,rising,YES
