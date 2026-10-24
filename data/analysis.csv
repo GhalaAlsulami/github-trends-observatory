@@ -1,2 +1,9 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,162114,NousResearch/hermes-agent,256433,https://github.com/NousResearch/hermes-agent,2026-10-23,100.0,rising,YES
+Python,162412,NousResearch/hermes-agent,256678,https://github.com/NousResearch/hermes-agent,2026-10-24,44.09,rising,YES
+TypeScript,73049,openclaw/openclaw,392914,https://github.com/openclaw/openclaw,2026-10-24,19.83,rising,YES
+JavaScript,44949,affaan-m/ECC,287693,https://github.com/affaan-m/ECC,2026-10-24,12.2,rising,YES
+Rust,25542,ultraworkers/claw-code,195071,https://github.com/ultraworkers/claw-code,2026-10-24,6.93,rising,YES
+C++,22163,LadybirdBrowser/ladybird,66652,https://github.com/LadybirdBrowser/ladybird,2026-10-24,6.02,rising,YES
+Go,19597,JuliusBrussee/caveman,114739,https://github.com/JuliusBrussee/caveman,2026-10-24,5.32,rising,YES
+Java,11746,opendataloader-project/opendataloader-pdf,29982,https://github.com/opendataloader-project/opendataloader-pdf,2026-10-24,3.19,rising,YES
+Kotlin,8910,librepods-org/librepods,30444,https://github.com/librepods-org/librepods,2026-10-24,2.42,rising,YES
