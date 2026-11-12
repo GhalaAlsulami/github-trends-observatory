@@ -1,7 +1,11 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,169787,NousResearch/hermes-agent,262656,https://github.com/NousResearch/hermes-agent,2026-11-11,48.1,rising,YES
-TypeScript,75693,morluto/rea,452040,https://github.com/morluto/rea,2026-11-11,21.45,rising,YES
-JavaScript,47345,affaan-m/ECC,301168,https://github.com/affaan-m/ECC,2026-11-11,13.41,rising,YES
-Rust,27388,ultraworkers/claw-code,194794,https://github.com/ultraworkers/claw-code,2026-11-11,7.76,rising,YES
-Go,20382,JuliusBrussee/caveman,119067,https://github.com/JuliusBrussee/caveman,2026-11-11,5.77,rising,YES
-Java,12366,floci-io/floci,31369,https://github.com/floci-io/floci,2026-11-11,3.5,rising,YES
+Python,170318,NousResearch/hermes-agent,262915,https://github.com/NousResearch/hermes-agent,2026-11-12,42.83,rising,YES
+TypeScript,75962,morluto/rea,454719,https://github.com/morluto/rea,2026-11-12,19.1,rising,YES
+JavaScript,47542,affaan-m/ECC,301846,https://github.com/affaan-m/ECC,2026-11-12,11.96,rising,YES
+Rust,27497,ultraworkers/claw-code,194789,https://github.com/ultraworkers/claw-code,2026-11-12,6.91,rising,YES
+C++,23704,boykopovar/AnyPS5,53416,https://github.com/boykopovar/AnyPS5,2026-11-12,5.96,rising,YES
+Go,20442,JuliusBrussee/caveman,119332,https://github.com/JuliusBrussee/caveman,2026-11-12,5.14,rising,YES
+Java,12412,floci-io/floci,31571,https://github.com/floci-io/floci,2026-11-12,3.12,rising,YES
+Kotlin,9703,librepods-org/librepods,30722,https://github.com/librepods-org/librepods,2026-11-12,2.44,rising,YES
+Swift,8556,apple/container,51297,https://github.com/apple/container,2026-11-12,2.15,rising,YES
+Ruby,1525,we-promise/sure,13680,https://github.com/we-promise/sure,2026-11-12,0.38,rising,YES
