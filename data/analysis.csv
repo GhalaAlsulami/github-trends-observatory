@@ -1,11 +1,7 @@
 language,total_repos,top_repo_name,top_repo_stars,top_repo_url,snapshot_date,share_pct,trend,is_surge
-Python,174517,NousResearch/hermes-agent,265875,https://github.com/NousResearch/hermes-agent,2026-11-24,42.57,rising,YES
-TypeScript,77660,morluto/rea,476910,https://github.com/morluto/rea,2026-11-24,18.94,rising,YES
-JavaScript,49040,affaan-m/ECC,310113,https://github.com/affaan-m/ECC,2026-11-24,11.96,rising,YES
-Rust,28989,ultraworkers/claw-code,194719,https://github.com/ultraworkers/claw-code,2026-11-24,7.07,rising,YES
-C++,25407,boykopovar/AnyPS5,61264,https://github.com/boykopovar/AnyPS5,2026-11-24,6.2,rising,YES
-Go,20927,JuliusBrussee/caveman,122620,https://github.com/JuliusBrussee/caveman,2026-11-24,5.11,rising,YES
-Java,12774,floci-io/floci,32094,https://github.com/floci-io/floci,2026-11-24,3.12,rising,YES
-Kotlin,10152,librepods-org/librepods,30955,https://github.com/librepods-org/librepods,2026-11-24,2.48,rising,YES
-Swift,8921,apple/container,52062,https://github.com/apple/container,2026-11-24,2.18,rising,YES
-Ruby,1543,we-promise/sure,17749,https://github.com/we-promise/sure,2026-11-24,0.38,rising,no
+Python,174820,NousResearch/hermes-agent,266065,https://github.com/NousResearch/hermes-agent,2026-11-25,47.95,rising,YES
+TypeScript,77782,morluto/rea,478226,https://github.com/morluto/rea,2026-11-25,21.33,rising,YES
+JavaScript,49153,affaan-m/ECC,310617,https://github.com/affaan-m/ECC,2026-11-25,13.48,rising,YES
+Rust,29081,ultraworkers/claw-code,194720,https://github.com/ultraworkers/claw-code,2026-11-25,7.98,rising,YES
+Go,20948,JuliusBrussee/caveman,122805,https://github.com/JuliusBrussee/caveman,2026-11-25,5.75,rising,YES
+Java,12791,floci-io/floci,32115,https://github.com/floci-io/floci,2026-11-25,3.51,rising,YES
